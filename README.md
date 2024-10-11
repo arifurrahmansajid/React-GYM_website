@@ -1,14 +1,8 @@
 ## Project 
 Intern Task
 
-## Project Screenshot
-## Home
-![Screenshot](./Home.png)
-
-## Login | Reg | Forget
-![Screenshot](./LOGIN.png)
-![Screenshot](./Register.png)
-![Screenshot](./Reset.png)
+## Project live Server
+ttps://gym-website-bd.netlify.app
 
 ## Technology
 
