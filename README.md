@@ -2,7 +2,7 @@
 Intern Task
 
 ## Project live Server
-ttps://gym-website-bd.netlify.app
+server:https://gym-website-bd.netlify.app
 
 ## Technology
 
